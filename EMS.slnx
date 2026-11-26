@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EMS_Business Layer/EMS_Business Layer.csproj" Id="df146f32-9a37-4e1a-918f-c02666a3a0d4" />
+  <Project Path="EMS_DataAccess/EMS_DataAccess Layer.csproj" Id="d6959d6c-c400-4868-bd3a-e06b75a8d4dd" />
+</Solution>
