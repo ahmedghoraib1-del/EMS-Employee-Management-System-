@@ -16,7 +16,7 @@ Tech Stack
 Area	Technology
 Language	C#
 Framework	ASP.NET Core Web API
-ORM	Entity Framework Core
+ADO.NET  
 Database	SQL Server
 Architecture
 
